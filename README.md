@@ -1,1 +1,1 @@
-With this project, you can generate blog posts by specifying the blog type, word count, and topic. The Llama-2 large language model has been used.
+You can download the Llama-2-7B model from HuggingFace. Once downloaded, you can test it locally along with the source code.
